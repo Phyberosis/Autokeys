@@ -5,9 +5,12 @@ a simple mouse and keyboard macro
 
 enter letters for it to type
 
-CTRL + SHIFT + CLICK to copy mouse position \n
+CTRL + SHIFT + CLICK to copy mouse position
+
 CTRL + E to paste
+
 add L or R for left/right click
+
 ex @|!ML(480, 704)L;
 
 CTRL + D for @|! to start command keys
