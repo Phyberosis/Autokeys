@@ -27,3 +27,8 @@ CTRL + D for @|! to start command keys
 @|!#c;    CTRL + c
 
 @|!^T;    ATL + TAB
+
+===
+
+## Download
+https://github.com/Phyberosis/Autokeys/releases/tag/1.0
