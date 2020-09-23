@@ -2,6 +2,9 @@
 
 a simple mouse and keyboard macro
 
+##### Autokeys 2!
+https://github.com/Phyberosis/Autokeys2CSharp/releases/tag/1.2.1
+
 ===
 
 enter letters for it to type
